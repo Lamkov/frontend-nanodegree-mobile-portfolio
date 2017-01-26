@@ -18,3 +18,12 @@ function logCRP() {
 window.addEventListener("load", function(event) {
   logCRP();
 });
+
+var font = new FontFace("Open Sans", "url(//fonts.googleapis.com/css?family=Open+Sans:400,700)", {
+  style: 'normal', unicodeRange: 'U+000-5FF', weight: '400'
+});
+font.load();
+font.ready().then(function() {
+  document.fonts.add(font);
+  document.body.style.fontFamily = "Open Sans, serif";
+});
