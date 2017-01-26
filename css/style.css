@@ -52,3 +52,10 @@ footer span { float: right; font-style: italic; }
 .lamkovPhoto {
   width: 70px;
 }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('//fonts.googleapis.com/css?family=Open+Sans:400,700');
+  font-weight: normal;
+  font-style: normal;
+}
