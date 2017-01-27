@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85cf8445-5a0f-4c18-864e-d5949200b2f8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo_html.appcache" afterPath="$PROJECT_DIR$/demo_html.appcache" />
     </list>
     <ignored path="frontend-nanodegree-mobile-portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +36,8 @@
       <file leaf-file-name="demo_html.appcache" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo_html.appcache">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.022193212">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.11096606">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -451,8 +450,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo_html.appcache">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022193212">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.11096606">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
